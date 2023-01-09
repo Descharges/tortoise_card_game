@@ -1,0 +1,11 @@
+{
+  "name": "tortoise_card_game",
+  "version": "1.0.0",
+  "description": "A TCG using google's emoji kitchen turtles as a base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Les Chauves",
+  "license": "ISC"
+}
