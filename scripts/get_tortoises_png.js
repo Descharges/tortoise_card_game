@@ -2,7 +2,7 @@
 const fs = require("fs")
 const client = require('https');
 
-emojiJson = fs.readFileSync("./emojiOutput.json");
+emojiJson = fs.readFileSync("./scripts/emojiOutput.json");
 emojiData = JSON.parse(emojiJson);
 
 (async ()=>{
